@@ -1,0 +1,11 @@
+#To display a basic message
+print("=========================================================================")
+print("COS 101 PRACTICAL")
+print("Introduction To Python")
+print("==========================================================================")
+print()
+print("Programme: Software Engineering")
+print("level: 100")
+print("Week 1")
+print()
+print("I will create and run a python programme")
